@@ -1,8 +1,8 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://example.com/"
-title = "Hugo 主题 MemE"
+baseURL = "https://loucx.github.io/"
+title = "王心のblog"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
@@ -96,17 +96,17 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "reuixiy"
+    name = "loucx"
     # 邮箱
-    email = "reuixiy@gmail.com"
+    email = "1520355655@qq.com"
     # 座右铭或简介
-    motto = "Viva La Vida"
+    motto = "Short the environment,be more yourself."
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = "https://io-oi.me/"
+    website = "https://loucx.github.io/"
     # 推特
-    twitter = "reuixiy"
+    twitter = "loucx3"
 
 # 相关文章
 [related]
@@ -343,11 +343,11 @@ uglyURLs = false
     #      Open Graph、Atom、RSS
 
     # 站点的创建时间
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2022-11-24T17:17:43+00:00"
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
-    siteTwitter = "reuixiy"
+    siteTwitter = "loucx3"
     # 说明：用于 Twitter Cards
 
 
